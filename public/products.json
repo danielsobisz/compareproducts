@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Scale RC 900 World Cup",
+      "image": "images/bike1.png",
+      "price": "$3500",
+      "size": ["S,", " M,", " L,", " XL"],
+      "type": "XC",
+      "frame": "Carbon",
+      "suspension": "RockShox SID Ult. RLC3 100mm",
+      "wheels": "Syncros Silverton 1.0 Carbon"
+    },
+    {
+      "id": "2",
+      "name": "Spark RC 900 SL AXS",
+      "image": "images/bike2.jpg",
+      "price": "$5000",
+      "size": ["S,", " M,", " L,", " XL"],
+      "type": "XC",
+      "frame": "Carbon",
+      "suspension": "FOX 32 SC Float Factory 100mm",
+      "wheels": "Syncros Silverton 1.0 SL CF"
+    },
+    {
+      "id": "3",
+      "name": "Genius 900 Ultimate AXS",
+      "image": "images/bike3.jpg",
+      "price": "$4800",
+      "size": ["M,", " L,", " XL"],
+      "type": "XC",
+      "frame": "Carbon",
+      "suspension": "FOX 36 Float Live Valve 150mm",
+      "wheels": "Syncros Revelstoke Carbon"
+    },
+    {
+      "id": "4",
+      "name": "Ransom 900 Tuned",
+      "image": "images/bike4.jpg",
+      "price": "$3800",
+      "size": ["S,", " M,", " L,", " XL"],
+      "type": "XC",
+      "frame": "Aluminum",
+      "suspension": "FOX 36 Float Factory 170mm",
+      "wheels": "Syncros Revelstoke 1.5 TR"
+    },
+    {
+      "id": "5",
+      "name": "Gambler 910",
+      "image": "images/bike5.jpg",
+      "price": "$2500",
+      "size": ["S,", " M,", " L,", " XL"],
+      "type": "XC",
+      "frame": "Carbon",
+      "suspension": "FOX 40 Performance Elite 203mm",
+      "wheels": "Maxxis Assegai 2.5' DH"
+    },
+    {
+      "id": "6",
+      "name": "Aspect 910",
+      "image": "images/bike6.png",
+      "price": "$780",
+      "size": ["S,", " M,", " L,", " XL"],
+      "type": "XC",
+      "frame": "Aluminum",
+      "suspension": "RockShox 30 Silver TK 100mm",
+      "wheels": "Kenda Booster"
+    }
+  ]
+}

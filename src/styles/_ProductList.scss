@@ -1,0 +1,19 @@
+
+.products-container {
+    @include respond-to('sm') {
+        width: 90%;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    @include respond-to('md') {
+        width: 90%;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    @include respond-to('xl') {
+        width: 70%;
+
+    }
+}
