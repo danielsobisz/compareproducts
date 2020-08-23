@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/CompareProducts/static/css/main.1045d831.chunk.css",
-    "main.js": "/CompareProducts/static/js/main.718439ac.chunk.js",
-    "main.js.map": "/CompareProducts/static/js/main.718439ac.chunk.js.map",
+    "main.js": "/CompareProducts/static/js/main.2b6d65b8.chunk.js",
+    "main.js.map": "/CompareProducts/static/js/main.2b6d65b8.chunk.js.map",
     "runtime-main.js": "/CompareProducts/static/js/runtime-main.7e62fabc.js",
     "runtime-main.js.map": "/CompareProducts/static/js/runtime-main.7e62fabc.js.map",
     "static/js/2.3cc846cf.chunk.js": "/CompareProducts/static/js/2.3cc846cf.chunk.js",
     "static/js/2.3cc846cf.chunk.js.map": "/CompareProducts/static/js/2.3cc846cf.chunk.js.map",
     "index.html": "/CompareProducts/index.html",
-    "precache-manifest.0624cc6d05c7fb2dbb7ebd2c7845c37c.js": "/CompareProducts/precache-manifest.0624cc6d05c7fb2dbb7ebd2c7845c37c.js",
+    "precache-manifest.be130a1068e754759c15feb2d3fb1f76.js": "/CompareProducts/precache-manifest.be130a1068e754759c15feb2d3fb1f76.js",
     "service-worker.js": "/CompareProducts/service-worker.js",
     "static/css/main.1045d831.chunk.css.map": "/CompareProducts/static/css/main.1045d831.chunk.css.map",
     "static/js/2.3cc846cf.chunk.js.LICENSE.txt": "/CompareProducts/static/js/2.3cc846cf.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7e62fabc.js",
     "static/js/2.3cc846cf.chunk.js",
     "static/css/main.1045d831.chunk.css",
-    "static/js/main.718439ac.chunk.js"
+    "static/js/main.2b6d65b8.chunk.js"
   ]
 }
